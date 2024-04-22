@@ -11,6 +11,6 @@ export default class Bird extends Animal {
     }
 
     fly() {
-        return `${this.name} flies high`;
-    }
+        return `${this.name} flies high`;
+    }
 }
