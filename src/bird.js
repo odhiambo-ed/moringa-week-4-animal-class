@@ -1,4 +1,4 @@
-import Animal from './Animal';
+import Animal from "./animal";
 
 export default class Bird extends Animal {
     constructor(name, breed) {
@@ -7,10 +7,10 @@ export default class Bird extends Animal {
     }
 
     sound() {
-        return ${this.name} chirps;
+        return `${this.name} chirps`;
     }
 
     fly() {
-        return ${this.name} flies high;
+        return `${this.name} flies high`;
     }
 }
