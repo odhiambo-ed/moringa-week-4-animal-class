@@ -16,8 +16,8 @@
 
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor)
-![CSS3](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=80&color=currentColor)
-![CSS3](https://icongr.am/devicon/webpack-plain.svg?size=80&color=currentColor)
+![Bootsrap](https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=3908e7)
+![Webpack](https://icongr.am/devicon/webpack-plain.svg?size=80&color=currentColor)
 
 ## Get Started
 
