@@ -11,6 +11,6 @@ export default class Fish extends Animal {
     }
 
     swim() {
-        return `${this.name} swims`;
-    }
+        return `${this.name} swims`;
+    }
 }
