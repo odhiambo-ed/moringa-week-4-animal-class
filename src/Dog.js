@@ -1,4 +1,4 @@
-import Animal from 'Animal';
+import Animal from "./animal";
 
 export default class Dog extends Animal {
     constructor(name, breed) {

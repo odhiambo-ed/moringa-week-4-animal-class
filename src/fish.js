@@ -1,4 +1,4 @@
-import Animal from "Animal";
+import Animal from "./animal";
 
 export default class Fish extends Animal {
     constructor(name, breed) {
@@ -11,6 +11,6 @@ export default class Fish extends Animal {
     }
 
     swim() {
-        `return ${this.name} swims`;
+        return `${this.name} swims`;
     }
 }
