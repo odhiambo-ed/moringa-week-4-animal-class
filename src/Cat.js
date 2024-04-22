@@ -1,4 +1,4 @@
-import Animal from './animal';
+import Animal from './Animal';
 
 export default class Cat extends Animal {
     constructor(name, breed) {
