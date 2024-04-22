@@ -1,4 +1,4 @@
-import Fish from './src/Fish';
+import Fish from '../src/Fish';
 
 test('Fish should make bubbles', () => {
     const myFish = new Fish('Fish', 'Starfish');

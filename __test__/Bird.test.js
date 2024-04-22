@@ -1,4 +1,4 @@
-import Bird from './src/Bird';
+import Bird from "../src/bird";
 
 test('Bird should chirp', () => {
     const myBird = new Bird('Kiwis', 'Accipitriformes');

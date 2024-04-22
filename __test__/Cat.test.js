@@ -1,4 +1,4 @@
-import Cat from './src/Cat';
+import Cat from '../src/Cat';
 
 test('Cat should meow', () => {
     const myCat = new Cat('Cat', 'Persian');
